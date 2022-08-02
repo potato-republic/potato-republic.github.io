@@ -1,77 +1,39 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Junyue Wang
+role: ""
+avatar_filename: profile-pic.png
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Statistical Modeling
+  - Operational Optimization
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: www.github.com/Junyue-Wang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/junyue-wang/
+organizations:
+  - name: Cornell University
+    url: https://www.cornell.edu/
+education:
+  courses:
+    - course: MS in Applied Statistics
+      institution: Cornell University
+      year: 2023
+    - course: BS in Statistics & Applied Probability
+      institution: University of California, Santa Barbara
+      year: 2020
+email: ""
+superuser: true
 highlight_name: true
 ---
+Master student at Cornell University. Proficiency in MySQL, Python, R, Apache Spark etc. Research interested in Healthcare system operations / Psychological Health Inference with Machine Learning / Natural Language Processing in application.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I believe in power of data integrity and ETL automation process. As for now I have experience with data analytics and machine learning, I am looking to incorporate all these techniques in work to come up with integrated data solution.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume-Junyue.pdf" "newtab" >}}resumé{{< /staticref >}}.
